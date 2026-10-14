@@ -347,3 +347,8 @@ COG follows these principles:
 - **Self-evolving:** Patterns and frameworks grow over time
 - **Low friction:** Quick capture, systematic organization
 - **Obsidian Tasks compatible:** All tasks include emoji due dates
+
+## Cursor Cloud Agent auto-merge
+
+Pull requests on `cursor/*` branches squash-merge when checks pass. See `docs/cloud-agent-auto-merge.md`.
+
